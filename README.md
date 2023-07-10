@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Fadwahigga
-- 👀 I’m interested in mobile application development
-- 🌱 I’m currently learning flutter framework
-- 💞️ I’m looking to be fullstack mobile application developer
+- 👋 Hi, I’m Fadwa Ali
+- A computer science graduate from the University of Khartoum - Faculty of mathematical science and
+Informatics. and Software Developer, passionate self-learner, responsible and committed engineer, and more
+than three years of experience defining requirements, designing, implementing, testing, and delivering mobile
+applications and web applications using a variety of programming languages and technologies with a get-itdone, on-time, and high - quality product spirit.
+- 💞️ I’m looking to be fullstack developer
 - 📫 My email fadwa.ali20@gmail.com
 
 <!---

@@ -3,6 +3,7 @@
 Informatics. and Software Developer, passionate self-learner, responsible and committed engineer, and more
 than three years of experience defining requirements, designing, implementing, testing, and delivering mobile
 applications and web applications using a variety of programming languages and technologies with a get-itdone, on-time, and high - quality product spirit.
+- VueJS - Flutter
 - 💞️ I’m looking to be fullstack developer
 - 📫 My email fadwa.ali20@gmail.com
 

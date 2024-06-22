@@ -9,6 +9,7 @@ Email: [fadwa.ali20@gmail.com](mailto:fadwa.ali20@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fadwa-ali)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fadwahigga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=netlify&logoColor=white)](https://main--fadwaali.netlify.app/#/)
 
 ---
 
@@ -62,3 +63,4 @@ Experienced Full-stack Developer proficient in web and mobile application develo
 - **Email:** [fadwa.ali20@gmail.com](mailto:fadwa.ali20@gmail.com)
 - **LinkedIn:** [linkedin.com/in/fadwa-ali](https://linkedin.com/in/fadwa-ali)
 - **GitHub:** [github.com/Fadwahigga](https://github.com/Fadwahigga)
+- **Portfolio:** [fadwaali.netlify.app](https://main--fadwaali.netlify.app/#/)

@@ -1,6 +1,6 @@
 # Fadwa Ali
 
-**Full-stack Developer**
+**Full-Stack Developer**
 
 Doha, Qatar
 

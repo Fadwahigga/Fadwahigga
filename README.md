@@ -2,7 +2,7 @@
 
 **Full-Stack Developer**
 
-Doha, Qatar
+Riyadh, Saudi Arabia
 
 Email: [fadwa.ali20@gmail.com](mailto:fadwa.ali20@gmail.com)
 

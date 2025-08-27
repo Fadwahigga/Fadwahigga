@@ -12,10 +12,10 @@
 
 ## 📝 About Me
 
-💡 I am an experienced **Full-Stack Developer** with a strong focus on building efficient, scalable, and maintainable applications.  
-🌍 I enjoy creating **multilingual, accessible platforms** that make a difference — from healthcare solutions to educational platforms and communication apps.  
-⚡ Skilled in **Vue.js, Nuxt.js, React.js, Node.js, Laravel, Prisma ORM, AWS, and Flutter**, I thrive in agile teams and love solving complex problems with clean code.  
-🎯 My goal: **to transform ideas into impactful digital products.**
+💡 Experienced **Full-Stack Developer** with a strong focus on building efficient, scalable, and maintainable applications.  
+🌍 Skilled in delivering **multilingual, cloud-native solutions** for healthcare, education, and SaaS.  
+⚡ Expertise: **Vue.js, Nuxt.js, React.js, Flutter (Bloc & Provider), Node.js, Laravel, Prisma, AWS**.  
+🎯 Passionate about **problem-solving, collaboration, and transforming ideas into impactful digital products**.
 
 ---
 
@@ -50,9 +50,10 @@
 
 ### 🧩 [Moro App](https://moroapp.ca)  
 _A Flutter + AWS solution for non-speaking individuals to build routines and communicate_  
-✔️ Flutter (Provider) + Firebase Cloud Messaging  
-✔️ Backend with AWS Lambda, MySQL, Prisma ORM  
-✔️ Secure JWT authentication with role-based access control  
+✔️ **Flutter with Provider & Bloc state management** for scalable, reactive UI  
+✔️ Backend with **AWS Lambda, MySQL, Prisma ORM**  
+✔️ Real-time notifications with **Firebase Cloud Messaging**  
+✔️ Secure **JWT authentication** with refresh tokens and role-based access control  
 
 ---
 
@@ -99,8 +100,24 @@ _Flutter + Laravel system for sales, inventory & suppliers_
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadwahigga&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadwahigga&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadwahigga&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fadwahigga&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="160"/>
+</p>
+
+---
+
+## 📆 Contribution History (All Years)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Fadwahigga" alt="Fadwa's GitHub Contributions Chart" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadwahigga&theme=radical" alt="GitHub Activity Graph"/>
 </p>
 
 ---

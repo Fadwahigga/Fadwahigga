@@ -12,10 +12,13 @@
 
 ## 📝 About Me
 
-💡 Experienced **Full-Stack Developer** with a strong focus on building efficient, scalable, and maintainable applications.  
-🌍 Skilled in delivering **multilingual, cloud-native solutions** for healthcare, education, and SaaS.  
-⚡ Expertise: **Vue.js, Nuxt.js, React.js, Flutter (Bloc & Provider), Node.js, Laravel, Prisma, AWS**.  
-🎯 Passionate about **problem-solving, collaboration, and transforming ideas into impactful digital products**.
+I’m a **Full-Stack Developer** experienced in designing and developing scalable applications for web and mobile platforms.  
+My work spans across **healthcare, education, SaaS, and communication platforms**, with a strong focus on:  
+
+- ⚡ **Modern frontends** using Vue.js, Nuxt.js, React.js, Flutter (Bloc & Provider).  
+- ⚙️ **Robust backends** with Node.js, Laravel, Prisma ORM, and AWS services.  
+- ☁️ **Cloud-native solutions** deployed on AWS with CI/CD pipelines.  
+- 🌍 **Multilingual applications** with i18n and performance optimization.  
 
 ---
 
@@ -46,54 +49,87 @@
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
 ### 🧩 [Moro App](https://moroapp.ca)  
-_A Flutter + AWS solution for non-speaking individuals to build routines and communicate_  
-✔️ **Flutter with Provider & Bloc state management** for scalable, reactive UI  
-✔️ Backend with **AWS Lambda, MySQL, Prisma ORM**  
-✔️ Real-time notifications with **Firebase Cloud Messaging**  
-✔️ Secure **JWT authentication** with refresh tokens and role-based access control  
+_A communication tool empowering non-speaking individuals._  
+- **Tech:** Flutter (Bloc & Provider), AWS Lambda, Prisma ORM, MySQL, Firebase Cloud Messaging.  
+- **Features:** Routine-building, secure JWT authentication with refresh tokens, push notifications.  
+- **Impact:** Helped create independence for non-speaking users through routine-based interaction.
 
 ---
 
 ### 🎓 [CAMS Training & Consulting](https://cams-kw.com)  
-_Educational platform with dynamic CMS & responsive design_  
-✔️ Next.js + Payload CMS + TailwindCSS  
-✔️ Custom CMS workflows for non-technical staff  
-✔️ Scalable and responsive content delivery  
+_E-learning platform with CMS-driven content._  
+- **Tech:** Next.js, Payload CMS, TailwindCSS.  
+- **Features:** Dynamic course management, custom components for non-technical staff.  
+- **Impact:** Reduced admin workload, improved content delivery for education programs.
 
 ---
 
 ### 💼 [DillX App](https://app.dillx.com/sign-in)  
-_SaaS platform automating investment due diligence_  
-✔️ Vue.js + Node.js + Prisma  
-✔️ Secure JWT authentication + recovery flows  
-✔️ Role-based permissions with scalable API architecture  
+_SaaS platform for investment due diligence automation._  
+- **Tech:** Vue.js, Node.js, Prisma ORM, AWS.  
+- **Features:** JWT auth, account recovery, scalable API with role-based permissions.  
+- **Impact:** Improved risk mitigation and due diligence efficiency for investment clients.
 
 ---
 
 ### 🚍 [Wasal Bslam](https://arvsf.com/)  
-_Laravel app ensuring school-parent communication & student safety_  
-✔️ Real-time notifications & geolocation tracking  
-✔️ Secure multi-role system for parents, drivers, admins  
+_School-parent communication and student safety system._  
+- **Tech:** Laravel, MyFatoorah, Firebase, JWT authentication.  
+- **Features:** Real-time trip tracking, notifications, multi-role user management.  
+- **Impact:** Enhanced safety and transparency in student transportation.
 
 ---
 
 ### 🏪 [Mobile-Based Store Management](https://github.com/Fadwahigga/Mobile-Based-Store-Management-System)  
-_Flutter + Laravel system for sales, inventory & suppliers_  
-✔️ ML-based offer suggestions  
-✔️ Secure user authentication  
-✔️ Streamlined accounting and inventory tracking  
+_Mobile app for retail store management._  
+- **Tech:** Flutter, Laravel, ML suggestions.  
+- **Features:** Sales, inventory, suppliers, accounting with ML-based offers.  
+- **Impact:** Simplified retail operations and boosted efficiency for managers.
+
+---
+
+### 🌐 [RED Star Company Website](https://rsl.com.sa/)  
+_Corporate website with advanced SEO._  
+- **Tech:** WordPress, SEO tools, Schema Markup, Google Analytics.  
+- **Features:** Responsive, multilingual design, optimized page speed.  
+- **Impact:** Increased online visibility and improved search ranking.
+
+---
+
+### 📊 [Roita](https://www.roita.org/)  
+_A platform for evidence-based health policy research._  
+- **Tech:** Vue.js, Laravel.  
+- **Features:** Research publishing, multilingual support, responsive UI.  
+- **Impact:** Strengthened data-driven decision-making in health policy.
+
+---
+
+### 🎉 [Monasaba Tech](https://monasbatech.com/)  
+_Event planning ecosystem connecting clients with providers._  
+- **Tech:** Flutter, Laravel.  
+- **Features:** Booking system, client-service provider interaction.  
+- **Impact:** Digitalized event planning for smoother client experience.
+
+---
+
+### 🏊 [Aqua-Q](https://aqua-q.com/en/)  
+_Swimming academy platform for course management._  
+- **Tech:** Laravel, TailwindCSS.  
+- **Features:** Course catalog, multilingual support, responsive UI.  
+- **Impact:** Made swimming education accessible to broader audiences.
 
 ---
 
 ## 🌱 Volunteering
 
 - **Software Developer** @ Sudanese Development House  
-  Led digital transformation projects to support youth entrepreneurship.  
+  Built and deployed organizational website supporting youth entrepreneurship.  
+
 - **Moderator** @ She In Technology  
-  Helped women in tech practice coding challenges and problem-solving.
+  Facilitated online programs, helping women build problem-solving skills with LeetCode.
 
 ---
 

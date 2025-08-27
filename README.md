@@ -133,30 +133,7 @@ _Swimming academy platform for course management._
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fadwahigga&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadwahigga&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fadwahigga&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="160"/>
-</p>
-
----
-
-## 📆 Contribution History (All Years)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/Fadwahigga" alt="Fadwa's GitHub Contributions Chart" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadwahigga&theme=radical" alt="GitHub Activity Graph"/>
-</p>
-
----
 
 ## 📫 Let’s Connect!
 

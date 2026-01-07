@@ -12,9 +12,9 @@ Saudi Arabia (Riyadh) · Open to Remote & Relocation
 
 ## About Me
 
-I am a Full-Stack Software Developer with experience building **scalable web and mobile applications** across SaaS, healthcare, education, and communication platforms. I focus on delivering **clean, maintainable, and performant systems** using modern frameworks and cloud-native architectures.
+I am a Full-Stack Software Developer with experience building **scalable web and mobile applications** across SaaS, healthcare, education, fintech, and communication platforms.
 
-I have strong hands-on experience with **AWS serverless solutions**, secure API development, CMS optimization, multilingual applications (i18n), and CI/CD pipelines. I enjoy solving complex problems and collaborating with cross-functional teams in Agile environments.
+My work focuses on **clean architecture, performance, security, and maintainability**, with strong hands-on experience in **cloud-native systems**, serverless architectures, multilingual applications (i18n), and CI/CD pipelines. I enjoy solving complex problems and collaborating with cross-functional teams in Agile environments.
 
 ---
 
@@ -47,7 +47,7 @@ I have strong hands-on experience with **AWS serverless solutions**, secure API 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
@@ -64,24 +64,52 @@ I have strong hands-on experience with **AWS serverless solutions**, secure API 
 ## Selected Projects
 
 ### Moro App  
-Assistive communication platform for non-speaking users.  
-**Tech:** Flutter, AWS Lambda, Prisma, MySQL, Firebase  
-**Focus:** Accessibility, secure authentication, scalable architecture  
+Assistive communication mobile application empowering non-speaking individuals.  
+**Platform:** iOS  
 
-### CAMS Training & Consulting  
-CMS-driven e-learning platform.  
-**Tech:** Next.js, Payload CMS, Tailwind CSS  
-**Focus:** Content management efficiency  
+**Tech:** Flutter · AWS Lambda · Prisma · MySQL · Firebase  
+**Focus:** Accessibility, secure authentication, scalable serverless architecture  
+**Link:** https://apps.apple.com/us/app/moro/id6748877131
+
+---
+
+### GiveHope  
+Donation and fundraising mobile application with telecom payment integration.  
+**Platform:** Mobile  
+
+**Tech:** Flutter · Node.js · TypeScript · Prisma · MySQL  
+**Focus:** Fintech integration, secure transactions, social impact  
+**Link:** https://github.com/Fadwahigga/GiveHope
+
+---
 
 ### DillX  
-SaaS platform for investment due diligence automation.  
-**Tech:** Vue.js, Node.js, Prisma, AWS  
-**Focus:** Secure APIs and scalability  
+SaaS platform automating investment due diligence and risk assessment.  
+**Platform:** Web  
 
-### Wasal Bslam  
-School transportation and parent communication system.  
-**Tech:** Laravel, Firebase, MyFatoorah  
-**Focus:** Real-time tracking and notifications  
+**Tech:** Vue.js · Node.js · AWS · Prisma · MySQL  
+**Focus:** Secure APIs, role-based access, scalable cloud architecture  
+**Link:** https://app.dillx.com/sign-in
+
+---
+
+### 3D Portfolio Platform  
+Interactive 3D portfolio inspired by terminal and simulation environments.  
+**Platform:** Web  
+
+**Tech:** Next.js · React · TypeScript · Three.js  
+**Focus:** Advanced UI/UX, 3D visualization, creative engineering  
+**Link:** https://lnkd.in/dtq86VZq
+
+---
+
+### CAMS Training & Consulting  
+CMS-driven e-learning platform for non-technical content editors.  
+**Platform:** Web  
+
+**Tech:** Next.js · Payload CMS · Tailwind CSS  
+**Focus:** CMS optimization, performance, maintainability  
+**Link:** https://cams-kw.com
 
 ---
 

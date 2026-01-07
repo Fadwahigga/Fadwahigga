@@ -3,79 +3,61 @@
 
 Saudi Arabia (Riyadh) · Open to Remote & Relocation  
 
-- Email: fadwa.ali20@gmail.com  
-- LinkedIn: https://linkedin.com/in/fadwa-ali  
-- GitHub: https://github.com/Fadwahigga  
-- Portfolio: https://fadwaali.netlify.app  
+[![Email](https://img.shields.io/badge/Email-fadwa.ali20%40gmail.com-red?style=flat-square&logo=gmail)](mailto:fadwa.ali20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fadwa--ali-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fadwa-ali)
+[![GitHub](https://img.shields.io/badge/GitHub-Fadwahigga-black?style=flat-square&logo=github)](https://github.com/Fadwahigga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fadwaali.netlify.app-green?style=flat-square&logo=vercel)](https://fadwaali.netlify.app)
 
 ---
 
 ## About Me
 
-I am a Full-Stack Software Developer with experience building **scalable web and mobile applications** across SaaS, healthcare, education, and communication platforms. My work focuses on creating **reliable, maintainable, and performant systems** using modern frameworks and cloud-native architectures.
+I am a Full-Stack Software Developer with experience building **scalable web and mobile applications** across SaaS, healthcare, education, and communication platforms. I focus on delivering **clean, maintainable, and performant systems** using modern frameworks and cloud-native architectures.
 
-I have hands-on experience with **AWS serverless solutions**, secure API development, CMS optimization, multilingual applications (i18n), and CI/CD pipelines. I enjoy solving complex problems, improving system performance, and collaborating with cross-functional teams in Agile environments.
+I have strong hands-on experience with **AWS serverless solutions**, secure API development, CMS optimization, multilingual applications (i18n), and CI/CD pipelines. I enjoy solving complex problems and collaborating with cross-functional teams in Agile environments.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
-JavaScript, TypeScript, Dart, PHP, Python, C/C++, HTML, CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 
 ### Frontend
-Vue.js, Nuxt.js, React.js, Next.js, Flutter, Tailwind CSS
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 ### Backend & APIs
-Node.js, Laravel, Prisma ORM, REST APIs, JWT Authentication
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel)
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=flat-square&logo=prisma)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens)
 
 ### Cloud & DevOps
-AWS (Lambda, API Gateway, S3, OpenSearch, CloudWatch), Firebase, CI/CD Pipelines
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions)
 
 ### Databases
-MySQL, PostgreSQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
 
 ### Testing & Tools
-Cypress, QA/UAT, Git, GitHub, Jira, Bitbucket, Agile/Scrum
-
----
-
-## Professional Experience
-
-### Software Developer — Momenta Analytics  
-**Dec 2024 – Present | Remote (Canada)**  
-- Develop scalable web applications and data platforms using modern JavaScript frameworks and AWS services.  
-- Index and optimize large datasets using AWS OpenSearch for fast and accurate search.  
-- Build reusable frontend components using Next.js, Vue.js, and Tailwind CSS.  
-- Implement serverless backend logic using AWS Lambda and Node.js.  
-- Design and maintain Prisma ORM data models with MySQL.
-
-### Full-Stack Developer — Moro App  
-**Dec 2024 – Present | Remote (Canada)**  
-- Develop mobile and web features using Flutter, React.js, and Next.js.  
-- Build secure serverless backends using AWS Lambda and API Gateway.  
-- Implement scalable state management and performance optimizations.  
-- Contribute to CI/CD workflows and technical documentation.
-
-### Teaching Assistant — University of Khartoum  
-**May 2024 – Sep 2024 | Remote (Sudan)**  
-- Supported Computer Science courses through labs, tutorials, and grading.  
-- Provided academic guidance and one-to-one student support.  
-- Collaborated with faculty on course material improvements.
-
-### Full-Stack Developer (Consultant) — Andariya  
-**Mar 2024 – Aug 2024 | Remote (Uganda)**  
-- Optimized CMS workflows using Nuxt.js.  
-- Refactored applications for multilingual (i18n) readiness.  
-- Improved performance to an 89% Lighthouse score through optimization.  
-- Led QA, UAT, and deployment coordination.
-
-### Part-Time Full-Stack Developer — Alnaimi Studios  
-**May 2024 – Jul 2024 | Hybrid (Qatar)**  
-- Developed Flutter mobile applications and improved UI performance.  
-- Built backend features using Laravel and Filament.  
-- Integrated MyFatoorah payments and Firebase services.  
-- Managed Android and iOS deployments.
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket)
 
 ---
 
@@ -84,7 +66,7 @@ Cypress, QA/UAT, Git, GitHub, Jira, Bitbucket, Agile/Scrum
 ### Moro App  
 Assistive communication platform for non-speaking users.  
 **Tech:** Flutter, AWS Lambda, Prisma, MySQL, Firebase  
-**Focus:** Accessibility, secure authentication, scalability  
+**Focus:** Accessibility, secure authentication, scalable architecture  
 
 ### CAMS Training & Consulting  
 CMS-driven e-learning platform.  
@@ -94,19 +76,12 @@ CMS-driven e-learning platform.
 ### DillX  
 SaaS platform for investment due diligence automation.  
 **Tech:** Vue.js, Node.js, Prisma, AWS  
-**Focus:** Secure APIs and scalable architecture  
+**Focus:** Secure APIs and scalability  
 
 ### Wasal Bslam  
 School transportation and parent communication system.  
 **Tech:** Laravel, Firebase, MyFatoorah  
 **Focus:** Real-time tracking and notifications  
-
-### Additional Projects
-- Mobile Store Management System (Flutter, Laravel)  
-- RED Star Company Website (WordPress, SEO)  
-- Roita (Vue.js, Laravel – health policy research)  
-- Monasaba Tech (Flutter, Laravel – event planning)  
-- Aqua-Q (Laravel – course management)
 
 ---
 
@@ -120,7 +95,7 @@ University of Khartoum — 2023
 ## Volunteering
 
 **Software Developer — Sudanese Development House**  
-- Led technical development for a youth entrepreneurship platform.
+- Built and maintained a youth entrepreneurship platform.
 
 **Moderator — She In Technology**  
 - Facilitated online problem-solving sessions using LeetCode.
@@ -129,7 +104,7 @@ University of Khartoum — 2023
 
 ## Contact
 
-I am open to full-time roles, consulting opportunities, and technical collaborations.
+Open to full-time roles, consulting opportunities, and technical collaboration.
 
 - Portfolio: https://fadwaali.netlify.app  
 - LinkedIn: https://linkedin.com/in/fadwa-ali  

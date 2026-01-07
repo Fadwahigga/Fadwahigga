@@ -1,147 +1,136 @@
-<h1 align="center">👋 Hi, I'm Fadwa Ali</h1>
-<h3 align="center">🚀 Full-Stack Developer | Cloud Enthusiast | Problem Solver</h3>
+# Fadwa Ali  
+**Full-Stack Software Developer**
 
-<p align="center">
-  <a href="mailto:fadwa.ali20@gmail.com"><img src="https://img.shields.io/badge/Email-fadwa.ali20%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/fadwa-ali"><img src="https://img.shields.io/badge/LinkedIn-fadwa--ali-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/Fadwahigga"><img src="https://img.shields.io/badge/GitHub-Fadwahigga-black?style=for-the-badge&logo=github"></a>
-  <a href="https://fadwaali.netlify.app"><img src="https://img.shields.io/badge/Portfolio-fadwaali.netlify.app-green?style=for-the-badge&logo=vercel"></a>
-</p>
+Saudi Arabia (Riyadh) · Open to Remote & Relocation  
 
----
-
-## 📝 About Me
-
-I’m a **Full-Stack Developer** experienced in designing and developing scalable applications for web and mobile platforms.  
-My work spans across **healthcare, education, SaaS, and communication platforms**, with a strong focus on:  
-
-- ⚡ **Modern frontends** using Vue.js, Nuxt.js, React.js, Flutter (Bloc & Provider).  
-- ⚙️ **Robust backends** with Node.js, Laravel, Prisma ORM, and AWS services.  
-- ☁️ **Cloud-native solutions** deployed on AWS with CI/CD pipelines.  
-- 🌍 **Multilingual applications** with i18n and performance optimization.  
+- Email: fadwa.ali20@gmail.com  
+- LinkedIn: https://linkedin.com/in/fadwa-ali  
+- GitHub: https://github.com/Fadwahigga  
+- Portfolio: https://fadwaali.netlify.app  
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 🎨 Frontend
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![NuxtJS](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I am a Full-Stack Software Developer with experience building **scalable web and mobile applications** across SaaS, healthcare, education, and communication platforms. My work focuses on creating **reliable, maintainable, and performant systems** using modern frameworks and cloud-native architectures.
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-fb503b?style=for-the-badge&logo=laravel&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+I have hands-on experience with **AWS serverless solutions**, secure API development, CMS optimization, multilingual applications (i18n), and CI/CD pipelines. I enjoy solving complex problems, improving system performance, and collaborating with cross-functional teams in Agile environments.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🧩 [Moro App](https://moroapp.ca)  
-_A communication tool empowering non-speaking individuals._  
-- **Tech:** Flutter (Bloc & Provider), AWS Lambda, Prisma ORM, MySQL, Firebase Cloud Messaging.  
-- **Features:** Routine-building, secure JWT authentication with refresh tokens, push notifications.  
-- **Impact:** Helped create independence for non-speaking users through routine-based interaction.
+### Languages
+JavaScript, TypeScript, Dart, PHP, Python, C/C++, HTML, CSS
 
----
+### Frontend
+Vue.js, Nuxt.js, React.js, Next.js, Flutter, Tailwind CSS
 
-### 🎓 [CAMS Training & Consulting](https://cams-kw.com)  
-_E-learning platform with CMS-driven content._  
-- **Tech:** Next.js, Payload CMS, TailwindCSS.  
-- **Features:** Dynamic course management, custom components for non-technical staff.  
-- **Impact:** Reduced admin workload, improved content delivery for education programs.
+### Backend & APIs
+Node.js, Laravel, Prisma ORM, REST APIs, JWT Authentication
 
----
+### Cloud & DevOps
+AWS (Lambda, API Gateway, S3, OpenSearch, CloudWatch), Firebase, CI/CD Pipelines
 
-### 💼 [DillX App](https://app.dillx.com/sign-in)  
-_SaaS platform for investment due diligence automation._  
-- **Tech:** Vue.js, Node.js, Prisma ORM, AWS.  
-- **Features:** JWT auth, account recovery, scalable API with role-based permissions.  
-- **Impact:** Improved risk mitigation and due diligence efficiency for investment clients.
+### Databases
+MySQL, PostgreSQL
+
+### Testing & Tools
+Cypress, QA/UAT, Git, GitHub, Jira, Bitbucket, Agile/Scrum
 
 ---
 
-### 🚍 [Wasal Bslam](https://arvsf.com/)  
-_School-parent communication and student safety system._  
-- **Tech:** Laravel, MyFatoorah, Firebase, JWT authentication.  
-- **Features:** Real-time trip tracking, notifications, multi-role user management.  
-- **Impact:** Enhanced safety and transparency in student transportation.
+## Professional Experience
+
+### Software Developer — Momenta Analytics  
+**Dec 2024 – Present | Remote (Canada)**  
+- Develop scalable web applications and data platforms using modern JavaScript frameworks and AWS services.  
+- Index and optimize large datasets using AWS OpenSearch for fast and accurate search.  
+- Build reusable frontend components using Next.js, Vue.js, and Tailwind CSS.  
+- Implement serverless backend logic using AWS Lambda and Node.js.  
+- Design and maintain Prisma ORM data models with MySQL.
+
+### Full-Stack Developer — Moro App  
+**Dec 2024 – Present | Remote (Canada)**  
+- Develop mobile and web features using Flutter, React.js, and Next.js.  
+- Build secure serverless backends using AWS Lambda and API Gateway.  
+- Implement scalable state management and performance optimizations.  
+- Contribute to CI/CD workflows and technical documentation.
+
+### Teaching Assistant — University of Khartoum  
+**May 2024 – Sep 2024 | Remote (Sudan)**  
+- Supported Computer Science courses through labs, tutorials, and grading.  
+- Provided academic guidance and one-to-one student support.  
+- Collaborated with faculty on course material improvements.
+
+### Full-Stack Developer (Consultant) — Andariya  
+**Mar 2024 – Aug 2024 | Remote (Uganda)**  
+- Optimized CMS workflows using Nuxt.js.  
+- Refactored applications for multilingual (i18n) readiness.  
+- Improved performance to an 89% Lighthouse score through optimization.  
+- Led QA, UAT, and deployment coordination.
+
+### Part-Time Full-Stack Developer — Alnaimi Studios  
+**May 2024 – Jul 2024 | Hybrid (Qatar)**  
+- Developed Flutter mobile applications and improved UI performance.  
+- Built backend features using Laravel and Filament.  
+- Integrated MyFatoorah payments and Firebase services.  
+- Managed Android and iOS deployments.
 
 ---
 
-### 🏪 [Mobile-Based Store Management](https://github.com/Fadwahigga/Mobile-Based-Store-Management-System)  
-_Mobile app for retail store management._  
-- **Tech:** Flutter, Laravel, ML suggestions.  
-- **Features:** Sales, inventory, suppliers, accounting with ML-based offers.  
-- **Impact:** Simplified retail operations and boosted efficiency for managers.
+## Selected Projects
+
+### Moro App  
+Assistive communication platform for non-speaking users.  
+**Tech:** Flutter, AWS Lambda, Prisma, MySQL, Firebase  
+**Focus:** Accessibility, secure authentication, scalability  
+
+### CAMS Training & Consulting  
+CMS-driven e-learning platform.  
+**Tech:** Next.js, Payload CMS, Tailwind CSS  
+**Focus:** Content management efficiency  
+
+### DillX  
+SaaS platform for investment due diligence automation.  
+**Tech:** Vue.js, Node.js, Prisma, AWS  
+**Focus:** Secure APIs and scalable architecture  
+
+### Wasal Bslam  
+School transportation and parent communication system.  
+**Tech:** Laravel, Firebase, MyFatoorah  
+**Focus:** Real-time tracking and notifications  
+
+### Additional Projects
+- Mobile Store Management System (Flutter, Laravel)  
+- RED Star Company Website (WordPress, SEO)  
+- Roita (Vue.js, Laravel – health policy research)  
+- Monasaba Tech (Flutter, Laravel – event planning)  
+- Aqua-Q (Laravel – course management)
 
 ---
 
-### 🌐 [RED Star Company Website](https://rsl.com.sa/)  
-_Corporate website with advanced SEO._  
-- **Tech:** WordPress, SEO tools, Schema Markup, Google Analytics.  
-- **Features:** Responsive, multilingual design, optimized page speed.  
-- **Impact:** Increased online visibility and improved search ranking.
+## Education
+
+**Bachelor of Science in Computer Science**  
+University of Khartoum — 2023
 
 ---
 
-### 📊 [Roita](https://www.roita.org/)  
-_A platform for evidence-based health policy research._  
-- **Tech:** Vue.js, Laravel.  
-- **Features:** Research publishing, multilingual support, responsive UI.  
-- **Impact:** Strengthened data-driven decision-making in health policy.
+## Volunteering
+
+**Software Developer — Sudanese Development House**  
+- Led technical development for a youth entrepreneurship platform.
+
+**Moderator — She In Technology**  
+- Facilitated online problem-solving sessions using LeetCode.
 
 ---
 
-### 🎉 [Monasaba Tech](https://monasbatech.com/)  
-_Event planning ecosystem connecting clients with providers._  
-- **Tech:** Flutter, Laravel.  
-- **Features:** Booking system, client-service provider interaction.  
-- **Impact:** Digitalized event planning for smoother client experience.
+## Contact
 
----
+I am open to full-time roles, consulting opportunities, and technical collaborations.
 
-### 🏊 [Aqua-Q](https://aqua-q.com/en/)  
-_Swimming academy platform for course management._  
-- **Tech:** Laravel, TailwindCSS.  
-- **Features:** Course catalog, multilingual support, responsive UI.  
-- **Impact:** Made swimming education accessible to broader audiences.
-
----
-
-## 🌱 Volunteering
-
-- **Software Developer** @ Sudanese Development House  
-  Built and deployed organizational website supporting youth entrepreneurship.  
-
-- **Moderator** @ She In Technology  
-  Facilitated online programs, helping women build problem-solving skills with LeetCode.
-
----
-
-
-
-## 📫 Let’s Connect!
-
-- 🌐 [Portfolio](https://fadwaali.netlify.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/fadwa-ali)  
-- 🐙 [GitHub](https://github.com/Fadwahigga)  
-- ✉️ [Email](mailto:fadwa.ali20@gmail.com)  
-
----
-
-✨ *“Code is more than syntax — it’s about creating meaningful solutions.”*  
+- Portfolio: https://fadwaali.netlify.app  
+- LinkedIn: https://linkedin.com/in/fadwa-ali  
+- Email: fadwa.ali20@gmail.com
